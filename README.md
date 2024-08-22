@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/AishaEvering/LangChain_Practice_Prompts_And_Chains/blob/main/parrot.jpeg" alt="PyTorch Logo" width="auto" height="300">
+   <img src="https://github.com/AishaEvering/LangChain_Practice_Memory/blob/main/parrot.jpeg" alt="PyTorch Logo" width="auto" height="300">
 </p>
 
 # LangChain Pratice
